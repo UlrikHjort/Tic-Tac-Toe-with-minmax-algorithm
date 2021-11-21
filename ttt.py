@@ -348,7 +348,6 @@ def initGame():
 # Main
 #
 ###################################################
-
 def main():
     #run(10, [PlayerMinMax(Game.X),PlayerHuman(Game.O)])
     #run(10, [PlayerHuman(Game.X),PlayerMinMax(Game.O)])                
